@@ -12,6 +12,6 @@ The device outlines and background are illustrative. The app screens come from t
 
 ## Additional postures
 
-![ReadAloud on iPhone Duo: laptop-style half-fold and Tent posture](assets/readaloud-iphone-duo-postures.jpg)
+![ReadAloud on iPhone Duo: laptop-style half-fold, inner landscape, and Tent posture](assets/readaloud-iphone-duo-postures.jpg)
 
-The additional captures show inner-display portrait reading in a laptop-style half-fold posture and outer-display landscape reading in Tent posture. The posture frames are illustrative, not official hardware renders.
+The additional captures show inner-display portrait reading in a laptop-style half-fold posture, inner-display landscape with Original and Reading side by side, and outer-display landscape reading in Tent posture. The posture frames are illustrative, not official hardware renders.
