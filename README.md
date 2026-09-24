@@ -1,16 +1,32 @@
-# ReadAloud · iPhone Duo
+# ReadAloud for iPhone Duo
 
-ReadAloud 可在外屏与内屏之间切换阅读和朗读界面。下图均直接截取自 2026-09-24 的 iPhone Duo 模拟器连续录屏，展示实际运行的 App 与模拟器设备外形。处理仅限选帧、裁去录屏的空白区域，以及把外屏横向画面整体旋转至正向；没有生成或拼接设备、铰链及 App 界面。鼠标没有进入这些成品画面。
+[ReadAloud on the App Store](https://apps.apple.com/app/id6765783837) · [ReadAloud App Store 页面](https://apps.apple.com/nz/app/id6765783837)
 
-_ReadAloud on iPhone Duo. These are frames from a continuous simulator recording of the running app. Frames were selected and cropped; the outer-display landscape frame was rotated as a whole. No generated or composited hardware or app UI is used._
+ReadAloud 让用户阅读文档，并在朗读时跟随当前文字。此次 iPhone Duo 适配把同一件事带到外屏、展开的内屏和半折叠姿态：展开时原文与朗读文字并排；半折时阅读内容在上方、播放操作在下方；外屏横向时显示更精简的朗读界面。
 
-## 原文与朗读并排 / Original and reading side by side
+_ReadAloud pairs document reading with spoken playback and visible reading progress. Its iPhone Duo adaptation brings the same task to the outer display, the expanded inner display, and a partially folded reading position. The expanded display can show the source layout beside the spoken text; the partially folded display separates reading from playback controls._
+
+**素材来源 / Source:** 以下六张均取自 2026-09-24 实际运行的 iPhone Duo 模拟器连续录屏。只进行了选帧、裁去录屏空白区域，并将一张外屏横向画面整体旋转至正向；未生成或拼接设备、铰链或 App 界面。公开 App Store 版本与这次待发布的 Duo 更新可能不同。
+
+_All six images are frames from a continuous iPhone Duo simulator recording of the running app on September 24, 2026. Frames were selected and cropped; the outer landscape frame was rotated as a whole. The device and app UI were not generated or composited. The currently live App Store version may differ from this upcoming Duo update._
+
+## 展开的内屏：原文与朗读 / Expanded inner display: original and reading
 
 ![内屏横向：左侧原文，右侧朗读文字与播放控制](assets/03-inner-landscape-original-reading.png)
 
-内屏横向展开后，原文与朗读文字同时显示，播放位置在阅读界面中可见。
+原始文档保留在左侧；右侧显示朗读文字、当前位置与播放控制。
 
-## 不同屏幕与方向 / Screen layouts
+_The original document stays on the left, with spoken text, the current position, and playback on the right._
+
+## 半折叠：阅读与播放 / Partially folded: reading and playback
+
+![内屏半折：上方阅读，下方播放，中部折线可见](assets/04-inner-portrait-reading.png)
+
+上半部分用于阅读，下半部分放置播放控制，中部的设备折线可见。
+
+_Reading occupies the upper portion while playback controls sit below the visible fold._
+
+## 其他可见界面 / More captured layouts
 
 ### 外屏竖向 · 书库 / Outer portrait · Library
 
@@ -24,14 +40,10 @@ _ReadAloud on iPhone Duo. These are frames from a continuous simulator recording
 
 ![内屏横向书库](assets/05-inner-landscape-library.png)
 
-### 内屏半折 · 阅读与播放 / Partially folded inner display · Reading and playback
-
-![内屏半折：分开的阅读和播放区域，中部折线可见](assets/04-inner-portrait-reading.png)
-
 ### 外屏横向 · 朗读 / Outer landscape · Listening
 
 ![外屏横向朗读界面](assets/06-outer-landscape-reading.png)
 
-外屏横向帧只展示正面视角。该画面不能单独证明设备的 Tent 支撑形态；如果需要说明侧面折角，应使用能拍到侧面结构的素材。
+外屏横向帧只展示正面视角，不能单独证明设备的 Tent 侧面支撑形态。
 
-_The outer landscape image shows the front view only. It does not establish the device's Tent geometry._
+_The outer landscape image shows the front view only; it does not establish the device's Tent geometry._
