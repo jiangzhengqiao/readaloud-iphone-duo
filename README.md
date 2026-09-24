@@ -54,6 +54,6 @@ All six linked device-window frames are from the same continuous simulator recor
 
 ## Release and evidence / 版本与证据边界
 
-The [live App Store version](https://apps.apple.com/nz/app/readaloud-text-to-speech-pdf/id6765783837) is 1.8.0 and already includes Original Layout. The Duo-specific layouts shown here belong to the forthcoming update. Current stills show the resulting layouts; they do not independently verify uninterrupted playback through a physical fold. A reviewable Duo build and a continuous same-document transition demonstration are the strongest next pieces of evidence when available.
+The [live App Store version](https://apps.apple.com/nz/app/readaloud-text-to-speech-pdf/id6765783837) is 1.8.0 and already includes Original Layout. The Duo-specific layouts shown here belong to the forthcoming update. These simulator captures document the prelaunch layouts; they do not establish performance on retail hardware. iPhone Duo is not yet on sale, so this gallery does not require or claim a recording from a physical device.
 
-当前商店版本为 1.8.0，已经包含原文布局；这里展示的是待发布的 Duo 专属布局。静态画面只能证明布局结果，不能单独证明折叠过程的无缝播放。如有可供编辑体验的 Duo 构建版本，以及同一本书在形态变化时的连续演示，可进一步补强这一点。
+当前商店版本为 1.8.0，已经包含原文布局；这里展示的是待发布的 Duo 专属布局。模拟器素材记录了上市前的界面，不能证明零售真机上的性能。iPhone Duo 尚未开售，本展示既不要求、也不声称包含真机录制素材。
