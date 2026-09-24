@@ -1,17 +1,22 @@
 # ReadAloud on iPhone Duo
 
-Public visual materials for ReadAloud's App Store editorial feature nomination.
+Visual material for App Store editorial consideration.
 
-## Captured layouts
+## Outer and inner displays
 
-![ReadAloud on iPhone Duo: outer display, inner half-fold, and inner portrait](assets/readaloud-iphone-duo-overview.jpg)
+![ReadAloud shown on iPhone Duo outer and inner displays](assets/readaloud-iphone-duo-overview.jpg)
 
-This overview uses simulator captures of outer-display portrait reading, inner-display half-fold with Original and Reading side by side, and inner-display portrait reading.
+The board pairs the supplied simulator capture of portrait reading on the outer display with the inner landscape capture showing Library and Reading side by side.
 
-The device outlines and background are illustrative. The app screens come from the supplied simulator captures; their content has not been redrawn and is only scaled to fit. This composite is for editorial context, not an App Store product-page screenshot.
+## Tent and laptop postures
 
-## Additional postures
+![ReadAloud shown in iPhone Duo Tent and laptop postures](assets/readaloud-iphone-duo-postures.jpg)
 
-![ReadAloud on iPhone Duo: laptop-style half-fold, inner landscape, and Tent posture](assets/readaloud-iphone-duo-postures.jpg)
+The board shows the supplied outer-display reading capture in Tent posture and the inner-display reading capture in laptop posture.
 
-The additional captures show inner-display portrait reading in a laptop-style half-fold posture, inner-display landscape with Original and Reading side by side, and outer-display landscape reading in Tent posture. The posture frames are illustrative, not official hardware renders.
+## Image sources and treatment
+
+- Device bodies and postures are based on Apple’s published [iPhone Duo product imagery](https://www.apple.com/nz/iphone-duo/). Apple lists the open dimensions as 164.6 × 117.8 × 5.2 mm and the folded dimensions as 84.1 × 117.8 × 11.3 mm in its [technical specifications](https://www.apple.com/nz/iphone-duo/specs/).
+- App screens are from the developer’s iPhone Duo simulator captures. They are resized and perspective-mapped onto the corresponding screen surfaces; the laptop capture is divided at the hinge. The app UI and text have not been redrawn.
+- The background was generated separately. No device hardware or app interface was generated.
+- These are editorial-context composites, not App Store screenshots.
